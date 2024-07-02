@@ -1,0 +1,1872 @@
+{
+    "files": [
+        {
+            "name": "attribution.txt",
+            "md5": "9e3fd855b77643febecc2916ca983046"
+        },
+        {
+            "name": "Contraptions\\2385213638\\2385213638.jaap",
+            "md5": "4c651d412f1066ad195aed41f8a3c7d7"
+        },
+        {
+            "name": "Contraptions\\2385213638\\2385213638.json",
+            "md5": "e6fc9c65bb259c64c454024ee270d07a"
+        },
+        {
+            "name": "Contraptions\\2385213638\\2385213638.png",
+            "md5": "b7773e708c3a025149d1fd655c4e3641"
+        },
+        {
+            "name": "Contraptions\\3147115897\\3147115897.jaap",
+            "md5": "2541d45ce38f1e80fd1c65d7cab98b1a"
+        },
+        {
+            "name": "Contraptions\\3147115897\\3147115897.json",
+            "md5": "5373961d2748d80f0ad05faa667c9c2e"
+        },
+        {
+            "name": "Contraptions\\3147115897\\3147115897.outline",
+            "md5": "28628fedfedea5c6d0c3ffea23f88c3f"
+        },
+        {
+            "name": "Contraptions\\3147115897\\3147115897.png",
+            "md5": "c92ed35d86773de2fe6f29df6e596705"
+        },
+        {
+            "name": "Contraptions\\3164207744\\3164207744.jaap",
+            "md5": "b76f65f7feebe9232e6c1d7db373a075"
+        },
+        {
+            "name": "Contraptions\\3164207744\\3164207744.json",
+            "md5": "228c4d4584d6ece30a2cec0f130054b5"
+        },
+        {
+            "name": "Contraptions\\3164207744\\3164207744.outline",
+            "md5": "7c5a4b8a651e407857cfe114d53a998f"
+        },
+        {
+            "name": "Contraptions\\3164207744\\3164207744.png",
+            "md5": "8a40a1d7aac67f738697af62f9f75fe7"
+        },
+        {
+            "name": "Contraptions\\3167718439\\3167718439.jaap",
+            "md5": "e49b12656aedd4670bfbf47bea1b8e0b"
+        },
+        {
+            "name": "Contraptions\\3167718439\\3167718439.json",
+            "md5": "000022a29616d19832336b1db2535f85"
+        },
+        {
+            "name": "Contraptions\\3167718439\\3167718439.outline",
+            "md5": "99f2dd13127eca337a2b06ec8e92b453"
+        },
+        {
+            "name": "Contraptions\\3167718439\\3167718439.png",
+            "md5": "454feb21cb0690b02135c57c30583259"
+        },
+        {
+            "name": "Contraptions\\steam_autocloud.vdf",
+            "md5": "24855579a44cad104beb807076ab94da"
+        },
+        {
+            "name": "Mods\\01STUDIO\\HDE2\\settings.json",
+            "md5": "415857b75f2e979180bd5e5a91be6b0f"
+        },
+        {
+            "name": "Mods\\01STUDIO\\Regrowth\\settings.json",
+            "md5": "e8a54c28fa827d5e3e0d8d1b6dee768f"
+        },
+        {
+            "name": "Mods\\steam_autocloud.vdf",
+            "md5": "24855579a44cad104beb807076ab94da"
+        },
+        {
+            "name": "MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
+            "md5": "30dba480a6034ad8c76996942b3881a8"
+        },
+        {
+            "name": "MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll",
+            "md5": "d8761c437b99c36307dab4cdebf0a5c8"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\2.0\\Browsers\\Compat.browser",
+            "md5": "0d831c1264b5b32a39fa347de368fe48"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\2.0\\DefaultWsdlHelpGenerator.aspx",
+            "md5": "f7be9f1841ff92f9d4040aed832e0c79"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\2.0\\machine.config",
+            "md5": "cad24142abba464dd90777c3d347ef88"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\2.0\\settings.map",
+            "md5": "22c818a23169e12bd3c8587b6394c731"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\2.0\\web.config",
+            "md5": "2b6303c4f12762b71051db6e947f90a4"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\4.0\\Browsers\\Compat.browser",
+            "md5": "0d831c1264b5b32a39fa347de368fe48"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\4.0\\DefaultWsdlHelpGenerator.aspx",
+            "md5": "f7be9f1841ff92f9d4040aed832e0c79"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\4.0\\machine.config",
+            "md5": "24c866ce8037fcdca2287234eddff637"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\4.0\\settings.map",
+            "md5": "ba17ade8a8e3ee221377534c8136f617"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\4.0\\web.config",
+            "md5": "b127480ee9f0b8dab6a3f73ad79dd332"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\4.5\\Browsers\\Compat.browser",
+            "md5": "0d831c1264b5b32a39fa347de368fe48"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\4.5\\DefaultWsdlHelpGenerator.aspx",
+            "md5": "f7be9f1841ff92f9d4040aed832e0c79"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\4.5\\machine.config",
+            "md5": "0869544722561f5aff0eefc83fc7b001"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\4.5\\settings.map",
+            "md5": "ba17ade8a8e3ee221377534c8136f617"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\4.5\\web.config",
+            "md5": "08101241b15b53ef0ab908f6d388881f"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\browscap.ini",
+            "md5": "378be809df7d15aac75a175693e25fbb"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\config",
+            "md5": "d9bc824737177af5792846f26507231c"
+        },
+        {
+            "name": "MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml",
+            "md5": "f34b330f20dce1bdcce9058fca287099"
+        },
+        {
+            "name": "People Playground.exe",
+            "md5": "5534465062a9089840568af130b7d0f3"
+        },
+        {
+            "name": "People Playground_Data\\app.info",
+            "md5": "93a5e8acdf2b4bf1b6b08d79a247ecaa"
+        },
+        {
+            "name": "People Playground_Data\\boot.config",
+            "md5": "a195f73a64c24e737fc8379254ba7b8b"
+        },
+        {
+            "name": "People Playground_Data\\globalgamemanagers",
+            "md5": "88a566456bdf28e5cfdcef8fd5b66fd1"
+        },
+        {
+            "name": "People Playground_Data\\globalgamemanagers.assets",
+            "md5": "4b66faf5cbc2afcc6f7593e6a108505e"
+        },
+        {
+            "name": "People Playground_Data\\globalgamemanagers.assets.resS",
+            "md5": "f4fb6a27d7cfdba768cfb8fd0a64c579"
+        },
+        {
+            "name": "People Playground_Data\\globalgamemanagers.resource",
+            "md5": "8cdc4b97a471bf1e2d208d3960f534b2"
+        },
+        {
+            "name": "People Playground_Data\\level0",
+            "md5": "48463af05c6d5060d40d757cdb149728"
+        },
+        {
+            "name": "People Playground_Data\\level1",
+            "md5": "e17c5b76b8afd60681380eeb6cc5be14"
+        },
+        {
+            "name": "People Playground_Data\\level2",
+            "md5": "49e3b16249fd913e19ee88eae4763474"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\0Harmony.dll",
+            "md5": "3952f05b0982abbbb9ea953db836b3ea"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Accessibility.dll",
+            "md5": "63c434b864ff270ce9fef43917dc8621"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Assembly-CSharp-firstpass.dll",
+            "md5": "204ed6d7dea4c0aa8d53b5eb7eb6ed14"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Assembly-CSharp.dll",
+            "md5": "d1ab9223df02251ad6915fc64dbc845a"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Ceras.dll",
+            "md5": "22336b3f449b016e77f793912db7ab5a"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\endel.nativewebsocket.dll",
+            "md5": "7377727f80fc00fb25d8476996c31206"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Facepunch.Steamworks.Win64.dll",
+            "md5": "9b6881f3af33f662ee9a2a8f07016b98"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\ImmersiveVRTools.Common.Runtime.dll",
+            "md5": "ae491807f7d81934b5f195185fee4302"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\LeTai.TranslucentImage.dll",
+            "md5": "8ecc9ed0a6c9c443bffb275393b922e9"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\ModModels.dll",
+            "md5": "a8525d27741005b8f277a3b1770176f0"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Mono.Data.Sqlite.dll",
+            "md5": "c3f45469e392a105cffe6ce007a54a61"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Mono.Posix.dll",
+            "md5": "72c9ea78101c493635c0f763d1795d7a"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Mono.Security.dll",
+            "md5": "d1b792d07b0e08ef190eb6ef5361e6f3"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Mono.WebBrowser.dll",
+            "md5": "ac6215e0a18a783958a39f6fd8e74057"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\mscorlib.dll",
+            "md5": "459241930cb0aae5a2f6f09c8fff75cc"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\NAudio-Unity.dll",
+            "md5": "f7696ac3205806c0faacabf4f6e1a7b4"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\NaughtyAttributes.Core.dll",
+            "md5": "e4030b23a2fcd44c4f5566355cb336d1"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\netstandard.dll",
+            "md5": "e65510933f59fb02d3b3e96527f14b7f"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Newtonsoft.Json.dll",
+            "md5": "95fabcecebe498f780caaaa33483bb2f"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Newtonsoft.Json.UnityConverters.Addressables.dll",
+            "md5": "cb55c3a6e2d76bed8bc454118f05ed7c"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Newtonsoft.Json.UnityConverters.dll",
+            "md5": "ed238fe2f0176199d09c3ae47bbf0a12"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Novell.Directory.Ldap.dll",
+            "md5": "83bdaee702eb61a6515a40b40903de7b"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Buffers.dll",
+            "md5": "a65596a77e2e206a84237ece6ab21a1f"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.ComponentModel.Composition.dll",
+            "md5": "a286ba1c012b3f0e0015f2206d7c4345"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.ComponentModel.DataAnnotations.dll",
+            "md5": "b34188fa0a45b438f5cef1362e85147c"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Configuration.dll",
+            "md5": "d0a550f30b09ac8e5f49ad6d7daab4c4"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Core.dll",
+            "md5": "ee54cdd0260259a087442949da49f50a"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Data.dll",
+            "md5": "50578819e23b7ad45abe591aac232b72"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Design.dll",
+            "md5": "ccbdc2b8c73750f2ea0f770f55ca7b36"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Diagnostics.StackTrace.dll",
+            "md5": "e00ac0f270fe5f78087b8520e6e5a213"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.DirectoryServices.dll",
+            "md5": "9cdafb687a0ef3f9c561ad46e985345a"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.dll",
+            "md5": "1517a46d24e4ee3caf8fceb42b515758"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Drawing.Design.dll",
+            "md5": "f9d2083f251c3ff4c9ffd3b912f821c8"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Drawing.dll",
+            "md5": "9e6e1d60ce8ff75034a2b4a27cd9b324"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Drawing.Primitives.dll",
+            "md5": "e857fe7dc7c7147fbbe6cce55e54773c"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.EnterpriseServices.dll",
+            "md5": "b005f504101c625cd0c61febd9f80102"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Globalization.Extensions.dll",
+            "md5": "64a4856a74b790ae43b87947d3cf0200"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.IO.Compression.dll",
+            "md5": "0fc5bd3d383a4b122e3b41f8bedbca50"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.IO.Compression.FileSystem.dll",
+            "md5": "cc9e65167f03d38edad0ad156e16213d"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Net.Http.dll",
+            "md5": "dd5f0ae5ee1cdf4cf4aea11365f64cc4"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Numerics.dll",
+            "md5": "1b57a9d8b85bf6d8ce1c50ab950afe39"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Runtime.CompilerServices.Unsafe.dll",
+            "md5": "a5aa80f49ad64689085755ab1ebf086e"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Runtime.dll",
+            "md5": "36ba84ca731b264ea86322d181438422"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Runtime.Serialization.dll",
+            "md5": "c7a98df54d532c98cf2a6eb1cd64e78e"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Runtime.Serialization.Formatters.Soap.dll",
+            "md5": "63d0dff846e03eb23c647ea77e03f5cf"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Runtime.Serialization.Xml.dll",
+            "md5": "f4cc876a99a54daa11c8405449fc8eac"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Security.dll",
+            "md5": "915fb88087c6ce36daa02bca9daff3dc"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.ServiceModel.Internals.dll",
+            "md5": "42008dcc96caf166a5a6a5c3861a618f"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Transactions.dll",
+            "md5": "d07f3cbbe8eb30ed793c0bd04a5dc973"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Web.ApplicationServices.dll",
+            "md5": "b820f653de9d10d415156f62d1c490eb"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Web.dll",
+            "md5": "76a51a9d3d72acc0083ac879d8a06196"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Web.Services.dll",
+            "md5": "d579273205b90049d8afc4ffcc43d72c"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Windows.Forms.dll",
+            "md5": "0df39cccb04448138435f72027315834"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Xml.dll",
+            "md5": "cd289f2ed2bd7d0bb13a608219b66ae9"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Xml.Linq.dll",
+            "md5": "fc3a20f4adef288e1622d0468e9aeda3"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\System.Xml.XPath.XDocument.dll",
+            "md5": "8c67c8280b9b25338cf16cd79a945ffa"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.Addressables.dll",
+            "md5": "f6a25491b0dc75b7fc8ac86d75ae7ab7"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.Mathematics.dll",
+            "md5": "54fd6b9f74ecfee5dde7271ce9f44a43"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.Postprocessing.Runtime.dll",
+            "md5": "b14e2ae29f023e3e19c03579d000c270"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+            "md5": "7a30e27220b2ad994bb3e49f41c4f9ab"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.RenderPipelines.Core.Runtime.dll",
+            "md5": "d05eb34f1e9003df63fe7d58a07532a0"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.RenderPipelines.Core.ShaderLibrary.dll",
+            "md5": "10f4ad5666fa33cda22b72e309194ba8"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+            "md5": "d0e3ad4a7a7161c75152b29522c72b5b"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.RenderPipelines.Universal.Runtime.dll",
+            "md5": "479eea778e8b2072098e88f73234fd1b"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.RenderPipelines.Universal.Shaders.dll",
+            "md5": "022feda95f681fb40e5e0de02f36f678"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.ResourceManager.dll",
+            "md5": "13efd1a2aafd408bdf6443c85971d239"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.ScriptableBuildPipeline.dll",
+            "md5": "3e6cfda22f7734fc66b42cd9e180a832"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.TextMeshPro.dll",
+            "md5": "ef797e03ad8c206430b49e22e47a288a"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\Unity.VisualEffectGraph.Runtime.dll",
+            "md5": "1affdec5340ee5e17e18c2d93be23c08"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.AccessibilityModule.dll",
+            "md5": "e111e7b5068e3ac51216b8fb03c2a948"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.AIModule.dll",
+            "md5": "6b58e39b9eb47a84b3971ee954863be8"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.AndroidJNIModule.dll",
+            "md5": "1e339d266d52209a1d49a2962a04fd98"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.AnimationModule.dll",
+            "md5": "be5229c5b39447b5161f7418d43dcc66"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.ARModule.dll",
+            "md5": "b89d90c7e16bdef0f0b8f3214489b1ea"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.AssetBundleModule.dll",
+            "md5": "26f782a82298576b149c0a459e1da6af"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.AudioModule.dll",
+            "md5": "0003161fdf2a15a4f10ad34412e61614"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.ClothModule.dll",
+            "md5": "7b6ac5c5149842a1aa4b1491a0d50e9f"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.ClusterInputModule.dll",
+            "md5": "85e3cb2849e86ce31f3310bd511fa8ab"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.ClusterRendererModule.dll",
+            "md5": "a4a67ed5cc055d4e4ae0dd00e657aade"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.CoreModule.dll",
+            "md5": "11e04ca6ce262176ef3c651bd8fd1f19"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.CrashReportingModule.dll",
+            "md5": "3bf4d76421e5bb6dca2799bd3d9bf9c2"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.DirectorModule.dll",
+            "md5": "7ef05e24301f0d6194e65011a9e469d3"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.dll",
+            "md5": "8848e704fa129e0672243399fbe9eb75"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.DSPGraphModule.dll",
+            "md5": "7cd4ef459abe08c050940384c3d79e73"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.GameCenterModule.dll",
+            "md5": "86fe7ba6bf10613ffc2c0231d049d147"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.GIModule.dll",
+            "md5": "c730644c8489aceaa8aab2f4f8f62eb3"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.GridModule.dll",
+            "md5": "4e684cb2daebcc10ee44a1584289a9ab"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.HotReloadModule.dll",
+            "md5": "335525ee69f4b196bf018cb98c68dce0"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.ImageConversionModule.dll",
+            "md5": "b43dfe346ed7790d1d8e889964ddc747"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.IMGUIModule.dll",
+            "md5": "0fdf308ee98c331b186a507e4386a842"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.InputLegacyModule.dll",
+            "md5": "4c4f21bcc3af11531aebb280fea227c0"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.InputModule.dll",
+            "md5": "e25ed71282e400063bed4f1ff89409e6"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.JSONSerializeModule.dll",
+            "md5": "d69cd0a0feaba4479112371ef13c898a"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.LocalizationModule.dll",
+            "md5": "2a4ea13f5bf9bc7a3eb01a64656043b6"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.ParticleSystemModule.dll",
+            "md5": "01ed47cbd85931c489a8406c5ffccce4"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.PerformanceReportingModule.dll",
+            "md5": "84ae9e14f4cee7798f015c9e6c8f475a"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.Physics2DModule.dll",
+            "md5": "dc679a5d318a944b324ed24b7e502659"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.PhysicsModule.dll",
+            "md5": "4284dadac7b332da54488f7ba3f1dfe5"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.ProfilerModule.dll",
+            "md5": "ab449002ead8cdc413eb3ee5549fead7"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+            "md5": "742ce7cc395fcdbee8d6d88d0c8c1652"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.ScreenCaptureModule.dll",
+            "md5": "b62da9b76b6516fe9329ccfeeb423b28"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.SharedInternalsModule.dll",
+            "md5": "7e358e26a009f22bc9e3cb081f7683e1"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.SpriteMaskModule.dll",
+            "md5": "c2568ee85025218e4fd51caa99b997a0"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.SpriteShapeModule.dll",
+            "md5": "defece3593c416ae64c0bdae68deb222"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.StreamingModule.dll",
+            "md5": "6e9e051e00184fdea2817aa84dfe76bc"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.SubstanceModule.dll",
+            "md5": "48d29309250684035cbd9469a2278bdf"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.SubsystemsModule.dll",
+            "md5": "325b342adbfec451fd15c6bf04d6daa0"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.TerrainModule.dll",
+            "md5": "58bac615b4ad4c0e1861f40c143a86af"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.TerrainPhysicsModule.dll",
+            "md5": "67f4d2c9145e48462edb0eacd9a207c3"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.TextCoreModule.dll",
+            "md5": "7101eb39ab65c54d44e3a514ebb39778"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.TextRenderingModule.dll",
+            "md5": "ead10cb644ec2c124d054c045494b501"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.TilemapModule.dll",
+            "md5": "551e3e965895f07aac733ed5e870861c"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.TLSModule.dll",
+            "md5": "2382307bb873835361d3b710f6cce9ef"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UI.dll",
+            "md5": "ff47536581f14b9327191e9a0eb831a7"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UIElementsModule.dll",
+            "md5": "0432e2074a58aaf371ae3babdefd1a16"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UIElementsNativeModule.dll",
+            "md5": "67fe238f18966d23c6f1eccb3b0a918d"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UIModule.dll",
+            "md5": "16affce65d68ed6abd6b3cb32e8d25d7"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UmbraModule.dll",
+            "md5": "8b9b95df0e75245d54d03cde53eef0b6"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UNETModule.dll",
+            "md5": "c8e023e9fc85ea5ddaa009962c8191ac"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UnityAnalyticsModule.dll",
+            "md5": "cf571eff8b83abbc324456ed6fedd5de"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UnityConnectModule.dll",
+            "md5": "dc8fa6b9753644774be47bee7a023af1"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UnityCurlModule.dll",
+            "md5": "fc7141772a8bfe6a81db563383ea6816"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UnityTestProtocolModule.dll",
+            "md5": "5e64ae0f7158a184a64410e9dec6604f"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UnityWebRequestAssetBundleModule.dll",
+            "md5": "e5288e6bab4cf196ed58ffe7f6a8c9dc"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UnityWebRequestAudioModule.dll",
+            "md5": "b353456c44188ad0c35d184e8fd5184f"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UnityWebRequestModule.dll",
+            "md5": "0738bd1429da00cabb6dc288ac195dd0"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UnityWebRequestTextureModule.dll",
+            "md5": "c32953c04ec6784fbbdc2a0a0e9f3d4e"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.UnityWebRequestWWWModule.dll",
+            "md5": "94c044cd213713ddfeccd9371baed927"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.VehiclesModule.dll",
+            "md5": "2e5af44bf4b30efb3966ddf6ea613c56"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.VFXModule.dll",
+            "md5": "ddaaa1f9972cbb890e4f1d072e415ceb"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.VideoModule.dll",
+            "md5": "b88c34c009e9f823f65ad3d76e60a97f"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.VirtualTexturingModule.dll",
+            "md5": "7a6130cfa04fa137ec0c4bffc6ce14d8"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.VRModule.dll",
+            "md5": "b1287923b8a4e740c56392bbda3f8059"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.WindModule.dll",
+            "md5": "9fceab583a34a1378a0d79269f637b42"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\UnityEngine.XRModule.dll",
+            "md5": "5e840cb8401a418e092cd296c2597732"
+        },
+        {
+            "name": "People Playground_Data\\Managed\\WatsonTcp.dll",
+            "md5": "c16015e3473f611876a9ea50568a5126"
+        },
+        {
+            "name": "People Playground_Data\\Plugins\\x86_64\\SteamConfig.ini",
+            "md5": "4bb8e9c4cda1b447eeb905a5f1caa0ec"
+        },
+        {
+            "name": "People Playground_Data\\Plugins\\x86_64\\steam_api64.dll",
+            "md5": "99a2cf782112b5ea29cb18674ca3182d"
+        },
+        {
+            "name": "People Playground_Data\\Plugins\\x86_64\\steam_api64.dll.bak",
+            "md5": "8afde2d19c89d0bf1a9f6ec475aa0ebb"
+        },
+        {
+            "name": "People Playground_Data\\Resources\\unity default resources",
+            "md5": "7ac3bf404b7c098417fedec4779dbc32"
+        },
+        {
+            "name": "People Playground_Data\\Resources\\unity_builtin_extra",
+            "md5": "8ab17f9be3bc7e246b0a82b0d61cf87d"
+        },
+        {
+            "name": "People Playground_Data\\resources.assets",
+            "md5": "9057a47e630a8a9ba5dd8ebd8a429dcd"
+        },
+        {
+            "name": "People Playground_Data\\resources.assets.resS",
+            "md5": "72540dffcd4d65db2e03604f9c4b1abc"
+        },
+        {
+            "name": "People Playground_Data\\resources.resource",
+            "md5": "7548b04bd3eb3659433e1dde5074a3a8"
+        },
+        {
+            "name": "People Playground_Data\\RuntimeInitializeOnLoads.json",
+            "md5": "3cba37ec6615634c333018e6ec00718b"
+        },
+        {
+            "name": "People Playground_Data\\ScriptingAssemblies.json",
+            "md5": "c2fb2edb54743217e84e13dce9fa0262"
+        },
+        {
+            "name": "People Playground_Data\\sharedassets0.assets",
+            "md5": "1c294135d5ad2ecf16f2f8dab7c745db"
+        },
+        {
+            "name": "People Playground_Data\\sharedassets0.assets.resS",
+            "md5": "9089e9798e0727f7cd6154f8437a185e"
+        },
+        {
+            "name": "People Playground_Data\\sharedassets0.resource",
+            "md5": "2945c27d565cb8cea5ebc3a20da59fa2"
+        },
+        {
+            "name": "People Playground_Data\\sharedassets1.assets",
+            "md5": "3f037212578694e258f35a81bdea9047"
+        },
+        {
+            "name": "People Playground_Data\\sharedassets1.assets.resS",
+            "md5": "8b3543da7a2fe5bfeec5a98deac35e49"
+        },
+        {
+            "name": "People Playground_Data\\sharedassets1.resource",
+            "md5": "b04e912f935033890c90dec4a303e509"
+        },
+        {
+            "name": "People Playground_Data\\sharedassets2.assets",
+            "md5": "740b021ba20f78650de4dd13e189b729"
+        },
+        {
+            "name": "People Playground_Data\\sharedassets2.assets.resS",
+            "md5": "66e9c90ba745ab531380c61fc00e0544"
+        },
+        {
+            "name": "People Playground_Data\\sharedassets2.resource",
+            "md5": "9634d63097a6a0bda8f629a1530afdca"
+        },
+        {
+            "name": "People Playground_Data\\StreamingAssets\\arial.ttf",
+            "md5": "6e7385fb7d6ceddf07b5a41e0bc2712d"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-console-l1-1-0.dll",
+            "md5": "a66b267fa68f9359ad73580f9b093153"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-console-l1-2-0.dll",
+            "md5": "734e965a9e9f046661d235e2f85c1641"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-datetime-l1-1-0.dll",
+            "md5": "41e0e8f317014f7fb00b82d29a4190f3"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-debug-l1-1-0.dll",
+            "md5": "878fa5d912dcced530ed2e32b2df0ee4"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-errorhandling-l1-1-0.dll",
+            "md5": "c26d4ae5db8c917c2c17000a2b67d664"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-fibers-l1-1-0.dll",
+            "md5": "e91e92baf545141c6a83ad0ed945b70c"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-file-l1-1-0.dll",
+            "md5": "7a6b7dfcf35130fc046d53da825774d8"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-file-l1-2-0.dll",
+            "md5": "2f3ed68e88962a3db91fddff116043c6"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-file-l2-1-0.dll",
+            "md5": "5ee963beea8ab70e4837b3ddc3dfa780"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-handle-l1-1-0.dll",
+            "md5": "590c76a79ca08289a7987ddca5021a63"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-heap-l1-1-0.dll",
+            "md5": "ab886001f13f3200b602da3911dc6bca"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-interlocked-l1-1-0.dll",
+            "md5": "64d161ea10e73aec4c2fba0d87d36340"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-libraryloader-l1-1-0.dll",
+            "md5": "827ffa70465991e720a36d394a011676"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-localization-l1-2-0.dll",
+            "md5": "1d309498972c67db409bff7c34ad30af"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-memory-l1-1-0.dll",
+            "md5": "03db11ce31048c8195523527a94c3755"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-namedpipe-l1-1-0.dll",
+            "md5": "fd5886a8ee0b4cb52f271240f90e42ff"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-processenvironment-l1-1-0.dll",
+            "md5": "8fd7e2ce901c757598708774f2b94232"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-processthreads-l1-1-0.dll",
+            "md5": "41fe1c31e12148c345f5c786147d4e9c"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-processthreads-l1-1-1.dll",
+            "md5": "3041be8b8f3e2e99d6f7fafcaf428648"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-profile-l1-1-0.dll",
+            "md5": "d02bd3adaa95436f32e28eaeee20bee0"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-rtlsupport-l1-1-0.dll",
+            "md5": "9416676d65f821608b4d381dcff7bec6"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-string-l1-1-0.dll",
+            "md5": "1bdea5fef3c5a84cbe246a6d78d03c17"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-synch-l1-1-0.dll",
+            "md5": "476fa601902b6c018da8c6ff0cbbf6ba"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-synch-l1-2-0.dll",
+            "md5": "e162b53ff1f872345471989d20374f36"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-sysinfo-l1-1-0.dll",
+            "md5": "b1c910cfdf6117fc45473c7c83756b95"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-timezone-l1-1-0.dll",
+            "md5": "a99dafdd0eb1668ae60d4898338dbed3"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-core-util-l1-1-0.dll",
+            "md5": "d1ef3ac0691175e3aa6631e328aaee1c"
+        },
+        {
+            "name": "ppgModCompiler\\API-MS-Win-core-xstate-l2-1-0.dll",
+            "md5": "8932ec8beeeb7e6f9a9a6351bdbb39e2"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-conio-l1-1-0.dll",
+            "md5": "843fa7bbb58f9c01498341bcbba66c22"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-convert-l1-1-0.dll",
+            "md5": "b42f3df73d062dcf7c61eb3e455fe1c6"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-environment-l1-1-0.dll",
+            "md5": "47a4bc68217b92ca3582224f1024e51f"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-filesystem-l1-1-0.dll",
+            "md5": "e795f694529fc430e0b0e25884e6a24e"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-heap-l1-1-0.dll",
+            "md5": "fb887fed29c62e516005fadb6838d521"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-locale-l1-1-0.dll",
+            "md5": "49c9af5961980346905239d9988cd041"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-math-l1-1-0.dll",
+            "md5": "b330487f1ccd5fc821fa117f8b57a5b4"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-multibyte-l1-1-0.dll",
+            "md5": "259ef62e91a242fb4a58186a6e9338b2"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-private-l1-1-0.dll",
+            "md5": "e7eb588adb7dced01fc1c98b546f83f2"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-process-l1-1-0.dll",
+            "md5": "6ea1ac1d1342eb4a09d44a9bb514eefc"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-runtime-l1-1-0.dll",
+            "md5": "0792930cced35a6b7afd0548a380d5d1"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-stdio-l1-1-0.dll",
+            "md5": "38799420c40507472fd54b3ba205db3e"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-string-l1-1-0.dll",
+            "md5": "2c4f5369a8c60a6d8107f474d2942859"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-time-l1-1-0.dll",
+            "md5": "e78951b33f1a259b3b9c0b406ac816a4"
+        },
+        {
+            "name": "ppgModCompiler\\api-ms-win-crt-utility-l1-1-0.dll",
+            "md5": "1d8042874eddebe39e60fbf8e1dfd3d0"
+        },
+        {
+            "name": "ppgModCompiler\\clrcompression.dll",
+            "md5": "d35f8c57d217a41dfc5e68bf25e5ecb1"
+        },
+        {
+            "name": "ppgModCompiler\\clretwrc.dll",
+            "md5": "7e03297e60244d6c2666ce69c6434843"
+        },
+        {
+            "name": "ppgModCompiler\\clrjit.dll",
+            "md5": "e127d23181160e02391e628192b1d08a"
+        },
+        {
+            "name": "ppgModCompiler\\coreclr.dll",
+            "md5": "99004b84b758edc90f90671221152667"
+        },
+        {
+            "name": "ppgModCompiler\\createdump.exe",
+            "md5": "cabe350f2bbc66636148f542a60e024f"
+        },
+        {
+            "name": "ppgModCompiler\\cs\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "98f732a2a542ac4d97392b7e42709131"
+        },
+        {
+            "name": "ppgModCompiler\\cs\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "e98e218b28c34b4c863c23b99c0419cb"
+        },
+        {
+            "name": "ppgModCompiler\\dbgshim.dll",
+            "md5": "d145ac15cb735e98bb11fe51cdbf09e0"
+        },
+        {
+            "name": "ppgModCompiler\\de\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "3032be8d7a93e8b07d035fb1a1982269"
+        },
+        {
+            "name": "ppgModCompiler\\de\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "fb4512a9bb4596d3e400cdeb19b9159e"
+        },
+        {
+            "name": "ppgModCompiler\\es\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "91dff720f12ca2ba9f04773af3d85107"
+        },
+        {
+            "name": "ppgModCompiler\\es\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "26633fada1fab252af074c18ef3177ce"
+        },
+        {
+            "name": "ppgModCompiler\\fr\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "63b3ed8d3e257e69a0dd3c4638d073a4"
+        },
+        {
+            "name": "ppgModCompiler\\fr\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "6729484882442c4f0fb8ce64bc519d71"
+        },
+        {
+            "name": "ppgModCompiler\\hostfxr.dll",
+            "md5": "1bc17073c940e2cb486d4c5a361c5df4"
+        },
+        {
+            "name": "ppgModCompiler\\hostpolicy.dll",
+            "md5": "da0f874eeee4c0f45cd0a9bd044c7db7"
+        },
+        {
+            "name": "ppgModCompiler\\it\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "09c45ab35cb06e2a53593ff324a26389"
+        },
+        {
+            "name": "ppgModCompiler\\it\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "631e6f02eb1a0b5848e8affb483af107"
+        },
+        {
+            "name": "ppgModCompiler\\ja\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "a90d9e091d41c457c03ba72e398807e3"
+        },
+        {
+            "name": "ppgModCompiler\\ja\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "b2690670fb31e900af2fcdc0648e9530"
+        },
+        {
+            "name": "ppgModCompiler\\ko\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "e40988de8404e84fb46060880f66758c"
+        },
+        {
+            "name": "ppgModCompiler\\ko\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "d7b884b8c6ed567202975e67a214a0b4"
+        },
+        {
+            "name": "ppgModCompiler\\last_instructions",
+            "md5": "04160c8c3f7d41c6830503101ca65af3"
+        },
+        {
+            "name": "ppgModCompiler\\Microsoft.CodeAnalysis.CSharp.dll",
+            "md5": "808f5815f7e3b7092924f6c58c38a212"
+        },
+        {
+            "name": "ppgModCompiler\\Microsoft.CodeAnalysis.dll",
+            "md5": "cf3a3d0dffc7e87d46728aa1a69bcb3b"
+        },
+        {
+            "name": "ppgModCompiler\\Microsoft.CSharp.dll",
+            "md5": "00bf49e705cae57d6d3272aa4fa93d19"
+        },
+        {
+            "name": "ppgModCompiler\\Microsoft.DiaSymReader.Native.x86.dll",
+            "md5": "4ff7094e3edfda47ced912012044296b"
+        },
+        {
+            "name": "ppgModCompiler\\Microsoft.VisualBasic.Core.dll",
+            "md5": "b81442181f32e13ebe4818b419b77845"
+        },
+        {
+            "name": "ppgModCompiler\\Microsoft.VisualBasic.dll",
+            "md5": "084f36b5cad5ace7456cba01d0faa080"
+        },
+        {
+            "name": "ppgModCompiler\\Microsoft.Win32.Primitives.dll",
+            "md5": "0fbd16da3e372bce2ff94a6e5ce69372"
+        },
+        {
+            "name": "ppgModCompiler\\Microsoft.Win32.Registry.dll",
+            "md5": "821df2b292aae121c310cdc83bde4e65"
+        },
+        {
+            "name": "ppgModCompiler\\ModModels.dll",
+            "md5": "a8525d27741005b8f277a3b1770176f0"
+        },
+        {
+            "name": "ppgModCompiler\\mscordaccore.dll",
+            "md5": "ea613da6eeb3f2968faa2d65dabadab1"
+        },
+        {
+            "name": "ppgModCompiler\\mscordaccore_x86_x86_5.0.1722.21314.dll",
+            "md5": "e58064d079c89a4a6057ffb56f4b4575"
+        },
+        {
+            "name": "ppgModCompiler\\mscordbi.dll",
+            "md5": "d7cb8cbb39127b4a5aa5b5131d3bedc1"
+        },
+        {
+            "name": "ppgModCompiler\\mscorlib.dll",
+            "md5": "ba694e8e63340912459119a01eb622f4"
+        },
+        {
+            "name": "ppgModCompiler\\mscorrc.dll",
+            "md5": "cae12ed68932fca65e2a1e3fd56940ba"
+        },
+        {
+            "name": "ppgModCompiler\\netstandard.dll",
+            "md5": "6fe31e287ed588751401bd148bbe8a9f"
+        },
+        {
+            "name": "ppgModCompiler\\Newtonsoft.Json.dll",
+            "md5": "9454ae6eb0c6ad77e93a95074ba29266"
+        },
+        {
+            "name": "ppgModCompiler\\pl\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "ba3be021e8e901af2e095a5abce048e2"
+        },
+        {
+            "name": "ppgModCompiler\\pl\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "4cafeb57065f7d70ca86a542e90c533f"
+        },
+        {
+            "name": "ppgModCompiler\\PPGModCompiler.deps.json",
+            "md5": "2d69b0709f775fd68d89d512e3fa903b"
+        },
+        {
+            "name": "ppgModCompiler\\PPGModCompiler.dll",
+            "md5": "2eec2b50471503ee6698656fd534da4a"
+        },
+        {
+            "name": "ppgModCompiler\\PPGModCompiler.exe",
+            "md5": "9ffe88946f8744f392f856b4b85aef40"
+        },
+        {
+            "name": "ppgModCompiler\\PPGModCompiler.runtimeconfig.json",
+            "md5": "d5d41dc85940b1285f5b8c81ac643dd5"
+        },
+        {
+            "name": "ppgModCompiler\\pt-BR\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "004381a5ca9d53692b9458f6bc19a14d"
+        },
+        {
+            "name": "ppgModCompiler\\pt-BR\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "7327fa19604cf6f76d79378040a33e37"
+        },
+        {
+            "name": "ppgModCompiler\\ru\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "5377424dc40ce46c722241862272b270"
+        },
+        {
+            "name": "ppgModCompiler\\ru\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "3cdfab625cbb504bca911180d3dec205"
+        },
+        {
+            "name": "ppgModCompiler\\System.AppContext.dll",
+            "md5": "5b6b302866a793e8ec44d10e99d54d49"
+        },
+        {
+            "name": "ppgModCompiler\\System.Buffers.dll",
+            "md5": "a8599c4e84fedae46d6b626396a8d682"
+        },
+        {
+            "name": "ppgModCompiler\\System.Collections.Concurrent.dll",
+            "md5": "b44120535324e36fcef71aac25c813d0"
+        },
+        {
+            "name": "ppgModCompiler\\System.Collections.dll",
+            "md5": "44b5aeddba5aa88a23e330cb37feb578"
+        },
+        {
+            "name": "ppgModCompiler\\System.Collections.Immutable.dll",
+            "md5": "628206ccbc08057c8b04ea63b418af50"
+        },
+        {
+            "name": "ppgModCompiler\\System.Collections.NonGeneric.dll",
+            "md5": "8a2d78ac985fe97deb4a944402c7c8f8"
+        },
+        {
+            "name": "ppgModCompiler\\System.Collections.Specialized.dll",
+            "md5": "0b7262b3b077a59150fecff20abf69e9"
+        },
+        {
+            "name": "ppgModCompiler\\System.ComponentModel.Annotations.dll",
+            "md5": "09071a08caf6f9997eae6249656a1e3b"
+        },
+        {
+            "name": "ppgModCompiler\\System.ComponentModel.DataAnnotations.dll",
+            "md5": "316247211cb41a0d02857a8f7437abf3"
+        },
+        {
+            "name": "ppgModCompiler\\System.ComponentModel.dll",
+            "md5": "779d4003461bd4e72ce8e90ac6453157"
+        },
+        {
+            "name": "ppgModCompiler\\System.ComponentModel.EventBasedAsync.dll",
+            "md5": "a9d58ae9af79e48d95a78ab83d5bc18a"
+        },
+        {
+            "name": "ppgModCompiler\\System.ComponentModel.Primitives.dll",
+            "md5": "0833988a109e1e0b0f0d66751bea6f21"
+        },
+        {
+            "name": "ppgModCompiler\\System.ComponentModel.TypeConverter.dll",
+            "md5": "a6ed678367d0954a020b85e43073ca50"
+        },
+        {
+            "name": "ppgModCompiler\\System.Configuration.dll",
+            "md5": "20eeaf7bdff64f95267f30230b32333b"
+        },
+        {
+            "name": "ppgModCompiler\\System.Console.dll",
+            "md5": "b2c8f23ffdf4dfec9c96462bd58a02f7"
+        },
+        {
+            "name": "ppgModCompiler\\System.Core.dll",
+            "md5": "db398ca0965241daafbb89d82c078fb0"
+        },
+        {
+            "name": "ppgModCompiler\\System.Data.Common.dll",
+            "md5": "57283e6321199e78038d84ad7d82153b"
+        },
+        {
+            "name": "ppgModCompiler\\System.Data.DataSetExtensions.dll",
+            "md5": "542d5e347390ce2d59212e425991a276"
+        },
+        {
+            "name": "ppgModCompiler\\System.Data.dll",
+            "md5": "49583b5263c35d560306393d04c881d1"
+        },
+        {
+            "name": "ppgModCompiler\\System.Diagnostics.Contracts.dll",
+            "md5": "bc09a11f7c9291cba41fd1a14c4e4cdc"
+        },
+        {
+            "name": "ppgModCompiler\\System.Diagnostics.Debug.dll",
+            "md5": "225f1b6e340875194218cd6df260ee0f"
+        },
+        {
+            "name": "ppgModCompiler\\System.Diagnostics.DiagnosticSource.dll",
+            "md5": "6b65ab3daa3b5505dba2656ec8d3ccb2"
+        },
+        {
+            "name": "ppgModCompiler\\System.Diagnostics.FileVersionInfo.dll",
+            "md5": "13a7138397be4da6b6f9824e06a225ed"
+        },
+        {
+            "name": "ppgModCompiler\\System.Diagnostics.Process.dll",
+            "md5": "151a62d4222db67ea0db3d4c98d307a7"
+        },
+        {
+            "name": "ppgModCompiler\\System.Diagnostics.StackTrace.dll",
+            "md5": "b87afe3783c63230965489a5dc18ac00"
+        },
+        {
+            "name": "ppgModCompiler\\System.Diagnostics.TextWriterTraceListener.dll",
+            "md5": "4a1f8021712367fcd2859550a0f27cc9"
+        },
+        {
+            "name": "ppgModCompiler\\System.Diagnostics.Tools.dll",
+            "md5": "9aeb8c52f6c21eb80ed42a41da513a27"
+        },
+        {
+            "name": "ppgModCompiler\\System.Diagnostics.TraceSource.dll",
+            "md5": "3111765f1edebd75a88e77c4f7203dd5"
+        },
+        {
+            "name": "ppgModCompiler\\System.Diagnostics.Tracing.dll",
+            "md5": "08770c0c6932ced9a2cd6c68e9bfd409"
+        },
+        {
+            "name": "ppgModCompiler\\System.dll",
+            "md5": "4ffd0e60a0436dade70f546bd3286946"
+        },
+        {
+            "name": "ppgModCompiler\\System.Drawing.dll",
+            "md5": "ed5d87ed1680cfecc627fb7b27478316"
+        },
+        {
+            "name": "ppgModCompiler\\System.Drawing.Primitives.dll",
+            "md5": "3f025b8ae3db5c89270deefa5619ef9f"
+        },
+        {
+            "name": "ppgModCompiler\\System.Dynamic.Runtime.dll",
+            "md5": "3f7ed8caf7265637121e1a37a9b791a6"
+        },
+        {
+            "name": "ppgModCompiler\\System.Formats.Asn1.dll",
+            "md5": "573f8d83787eb76b212ab4f82b6f84fd"
+        },
+        {
+            "name": "ppgModCompiler\\System.Globalization.Calendars.dll",
+            "md5": "e73a9b724f9b95595a20d8d84cf55821"
+        },
+        {
+            "name": "ppgModCompiler\\System.Globalization.dll",
+            "md5": "2abede3ce1ab6d0cbe8fa5aad5424261"
+        },
+        {
+            "name": "ppgModCompiler\\System.Globalization.Extensions.dll",
+            "md5": "f1de9210d1f28a1f066a41371378106c"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.Compression.Brotli.dll",
+            "md5": "e3810137ee5dd49388773a564df00661"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.Compression.dll",
+            "md5": "94c14c620c9ce0f9910d58cce973d52c"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.Compression.FileSystem.dll",
+            "md5": "0a71be21adb727d957702c5bf66e5308"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.Compression.ZipFile.dll",
+            "md5": "952c01d6291b88dcfe0d369ef005d1dc"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.dll",
+            "md5": "7fbbac506f4f7eac1ff72529b0654472"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.FileSystem.AccessControl.dll",
+            "md5": "2e189293fe78fc4fd452a19ef1beda88"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.FileSystem.dll",
+            "md5": "ebeeccd5554b9b185fc418281e9e972d"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.FileSystem.DriveInfo.dll",
+            "md5": "b12eba2e661d721f9b890df375d829a2"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.FileSystem.Primitives.dll",
+            "md5": "c032b58822d49d01e496e9ef1b0ea23f"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.FileSystem.Watcher.dll",
+            "md5": "264eac10b2ad1b75402681ab53235fd3"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.IsolatedStorage.dll",
+            "md5": "c136f29a988ac9e5ac0f0ff171253159"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.MemoryMappedFiles.dll",
+            "md5": "ad6aa93953963e8ea8a1c1cfc374e49b"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.Pipes.AccessControl.dll",
+            "md5": "92ea0e240a38958ca08a884b30dca136"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.Pipes.dll",
+            "md5": "b6a8841dfa3ec0f3ab6759d82ece1f1c"
+        },
+        {
+            "name": "ppgModCompiler\\System.IO.UnmanagedMemoryStream.dll",
+            "md5": "3238852f1bdcca7fcd65dda319943a62"
+        },
+        {
+            "name": "ppgModCompiler\\System.Linq.dll",
+            "md5": "65140bfb3051a36a39b031d8c39b426f"
+        },
+        {
+            "name": "ppgModCompiler\\System.Linq.Expressions.dll",
+            "md5": "1396ab331960c10f6d91a1bdc66fe0eb"
+        },
+        {
+            "name": "ppgModCompiler\\System.Linq.Parallel.dll",
+            "md5": "d4dfcbbbe06686ef0eb7ec25cb322e18"
+        },
+        {
+            "name": "ppgModCompiler\\System.Linq.Queryable.dll",
+            "md5": "05aa9c2a9373d305a0254efd2617ef41"
+        },
+        {
+            "name": "ppgModCompiler\\System.Memory.dll",
+            "md5": "0a7de99b26d6278c45d0ddbc9624a257"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.dll",
+            "md5": "ebfe40d142f200e419d2ed9f3d7c7d55"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.Http.dll",
+            "md5": "3779f7f7edec0c316897af8075d3b5b6"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.Http.Json.dll",
+            "md5": "fcbb0ca21a09b9705d85261009779ca4"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.HttpListener.dll",
+            "md5": "2cc3756c3d93ec3aacf1868510aa49f5"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.Mail.dll",
+            "md5": "a196bff6056b6db0141725df24fb6c0f"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.NameResolution.dll",
+            "md5": "8017ed2454c1c6f1583568650a409b00"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.NetworkInformation.dll",
+            "md5": "65390057065d53bf8e73970b9811f898"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.Ping.dll",
+            "md5": "a5ef2ebf5db107ac9505c3725b9047a0"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.Primitives.dll",
+            "md5": "77c26b360f7a5742b4ffb139c8ebbff7"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.Requests.dll",
+            "md5": "ce9f9c7fd8aa6c0a377a275345b081f9"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.Security.dll",
+            "md5": "2d13e778271926a69b33f0f33200f354"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.ServicePoint.dll",
+            "md5": "b7e0cdda2468d25ec51046417171f24d"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.Sockets.dll",
+            "md5": "82aba87eaa5b8b55dd452afadfc35b39"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.WebClient.dll",
+            "md5": "a08e8cdb22a42135c5bce1bb679b3c20"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.WebHeaderCollection.dll",
+            "md5": "1526556fdfe53f8f355e76c4c6b0634f"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.WebProxy.dll",
+            "md5": "6c2447bd25b61f6db75b0249c3bbda8e"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.WebSockets.Client.dll",
+            "md5": "8eb091f09b837163a40744bd41f6e7ad"
+        },
+        {
+            "name": "ppgModCompiler\\System.Net.WebSockets.dll",
+            "md5": "0c8f46bd3f425286ecef42c924ede9cf"
+        },
+        {
+            "name": "ppgModCompiler\\System.Numerics.dll",
+            "md5": "0a0ca7bd6f761d4b2b9b385c2ad8e241"
+        },
+        {
+            "name": "ppgModCompiler\\System.Numerics.Vectors.dll",
+            "md5": "bf16c5e3df4a5ff06818ace80081e661"
+        },
+        {
+            "name": "ppgModCompiler\\System.ObjectModel.dll",
+            "md5": "f37ea5369022ec4328faffcbce6d59c3"
+        },
+        {
+            "name": "ppgModCompiler\\System.Private.CoreLib.dll",
+            "md5": "d3cfe3422fb4d5a93c1cf9807debd230"
+        },
+        {
+            "name": "ppgModCompiler\\System.Private.DataContractSerialization.dll",
+            "md5": "ec94f03774e18abe3bf7662fcf060d76"
+        },
+        {
+            "name": "ppgModCompiler\\System.Private.Uri.dll",
+            "md5": "eb239135a4ce11123503ec0d181b587c"
+        },
+        {
+            "name": "ppgModCompiler\\System.Private.Xml.dll",
+            "md5": "b30e5af7609c29efbc135d70d7eaf696"
+        },
+        {
+            "name": "ppgModCompiler\\System.Private.Xml.Linq.dll",
+            "md5": "4434b035bdbe88458cfda89e5aaecff9"
+        },
+        {
+            "name": "ppgModCompiler\\System.Reflection.DispatchProxy.dll",
+            "md5": "90213e942c07cd8e9ab95d9a9f645ad3"
+        },
+        {
+            "name": "ppgModCompiler\\System.Reflection.dll",
+            "md5": "9eb23a62799dd5891d0929762965c310"
+        },
+        {
+            "name": "ppgModCompiler\\System.Reflection.Emit.dll",
+            "md5": "842ebf00b54a110c6960a2747a892099"
+        },
+        {
+            "name": "ppgModCompiler\\System.Reflection.Emit.ILGeneration.dll",
+            "md5": "bace01dcfc77bb6c2495e2b335b06392"
+        },
+        {
+            "name": "ppgModCompiler\\System.Reflection.Emit.Lightweight.dll",
+            "md5": "34cffbcff6eaa23a652be3a0e9a0a8dc"
+        },
+        {
+            "name": "ppgModCompiler\\System.Reflection.Extensions.dll",
+            "md5": "4d75d14f5eb3b12feb4b1f22c40959f3"
+        },
+        {
+            "name": "ppgModCompiler\\System.Reflection.Metadata.dll",
+            "md5": "b74d14ff1c79d2091324112b5695b450"
+        },
+        {
+            "name": "ppgModCompiler\\System.Reflection.Primitives.dll",
+            "md5": "82222281a0d97e3458ecb387516b520a"
+        },
+        {
+            "name": "ppgModCompiler\\System.Reflection.TypeExtensions.dll",
+            "md5": "869bab3facbe1846e7cb3a23fb31ea59"
+        },
+        {
+            "name": "ppgModCompiler\\System.Resources.Reader.dll",
+            "md5": "1b5da95c1154704317860434fe24d6dd"
+        },
+        {
+            "name": "ppgModCompiler\\System.Resources.ResourceManager.dll",
+            "md5": "6e4fbe8d5fec9c5d2619c7de4cc9554c"
+        },
+        {
+            "name": "ppgModCompiler\\System.Resources.Writer.dll",
+            "md5": "5c0a15910ee7950a80d186ece24742dd"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.CompilerServices.Unsafe.dll",
+            "md5": "258f6fb8a3cd2885c13190ec8fe5351d"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.CompilerServices.VisualC.dll",
+            "md5": "644d3c9ab156afa745230433747db744"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.dll",
+            "md5": "2a2145894b1e24529c3ec57fe204bd07"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.Extensions.dll",
+            "md5": "55dcf152fbd2d1eb858f89b17c10a0a9"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.Handles.dll",
+            "md5": "e1c70d5e42fd4db2352587ba74a57387"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.InteropServices.dll",
+            "md5": "9f2fd82defea7a745695144643ee1bf1"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.InteropServices.RuntimeInformation.dll",
+            "md5": "b4d950542211b89ea84700ce35dc5b13"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.Intrinsics.dll",
+            "md5": "d7057184914475114c6b582c6c03dad1"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.Loader.dll",
+            "md5": "306be21a78fe3cd7672734d53c9cc45c"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.Numerics.dll",
+            "md5": "a030895fd8999da86a612a302b40f740"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.Serialization.dll",
+            "md5": "30a592cf4d78cbe44fa4953aef843384"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.Serialization.Formatters.dll",
+            "md5": "de058a7bca1c99ddc176892e358937f5"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.Serialization.Json.dll",
+            "md5": "23a4d1e981a2cf4921d812ce4ff931be"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.Serialization.Primitives.dll",
+            "md5": "b2d8eff308ffebdf0dc3f3971e54ee55"
+        },
+        {
+            "name": "ppgModCompiler\\System.Runtime.Serialization.Xml.dll",
+            "md5": "1bf190e9b1ffa7aa52c48fa4670d770a"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.AccessControl.dll",
+            "md5": "b6e3eedc3e54580b3e6e37faeca7293b"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.Claims.dll",
+            "md5": "6641a8ef410dfba410b86e24ceeadbde"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.Cryptography.Algorithms.dll",
+            "md5": "3f21795f3998e6a16a546f68e299156e"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.Cryptography.Cng.dll",
+            "md5": "5dd8b90c71c997f016c28a6edca6a1ba"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.Cryptography.Csp.dll",
+            "md5": "6fcdcdb7d12d2ee7cc1d3a2f09b7e070"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.Cryptography.Encoding.dll",
+            "md5": "4000e729251e2c6eb9d3efda58fcf8ba"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.Cryptography.OpenSsl.dll",
+            "md5": "57729935a64deffa0d627f6345c97a99"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.Cryptography.Primitives.dll",
+            "md5": "e43f904fc0089ac113bf9e92d4b2c0d0"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.Cryptography.X509Certificates.dll",
+            "md5": "69291be71e10ae9ccbe23c0c92f8ae8e"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.dll",
+            "md5": "edecaa3e31e9d9683b5f85b47cd57a7e"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.Principal.dll",
+            "md5": "9963a2b58ef9d84844ba887da60e7312"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.Principal.Windows.dll",
+            "md5": "e5affcdf92a1023f1cb3d6c50a8e04cf"
+        },
+        {
+            "name": "ppgModCompiler\\System.Security.SecureString.dll",
+            "md5": "4ec61b92b50ef40c95eb70f52f4cf027"
+        },
+        {
+            "name": "ppgModCompiler\\System.ServiceModel.Web.dll",
+            "md5": "081d8d4834d3c94cbd493d591456f042"
+        },
+        {
+            "name": "ppgModCompiler\\System.ServiceProcess.dll",
+            "md5": "ec7e0bee450fca6413d6e0c0fbbc352d"
+        },
+        {
+            "name": "ppgModCompiler\\System.Text.Encoding.CodePages.dll",
+            "md5": "997c9abdfed3084a85b3df3afe17fa26"
+        },
+        {
+            "name": "ppgModCompiler\\System.Text.Encoding.dll",
+            "md5": "676238c4532f231dfc16f6413ade9fde"
+        },
+        {
+            "name": "ppgModCompiler\\System.Text.Encoding.Extensions.dll",
+            "md5": "93c18b54a04f248e857816649fa593a0"
+        },
+        {
+            "name": "ppgModCompiler\\System.Text.Encodings.Web.dll",
+            "md5": "25ff6d5f1999930c93a9941249d24507"
+        },
+        {
+            "name": "ppgModCompiler\\System.Text.Json.dll",
+            "md5": "a4f9d4f78f23c238446985092ad74472"
+        },
+        {
+            "name": "ppgModCompiler\\System.Text.RegularExpressions.dll",
+            "md5": "fde2840be6145b1bad83e0527f93e628"
+        },
+        {
+            "name": "ppgModCompiler\\System.Threading.Channels.dll",
+            "md5": "35fe129789595a389027cd1456c6e57a"
+        },
+        {
+            "name": "ppgModCompiler\\System.Threading.dll",
+            "md5": "e831d5c9a026cc9da6a0702e45682728"
+        },
+        {
+            "name": "ppgModCompiler\\System.Threading.Overlapped.dll",
+            "md5": "8e4558ced5d060c2f7b01109bf8c6950"
+        },
+        {
+            "name": "ppgModCompiler\\System.Threading.Tasks.Dataflow.dll",
+            "md5": "9d8922f36c46be01c3f65c53c2ae0bc6"
+        },
+        {
+            "name": "ppgModCompiler\\System.Threading.Tasks.dll",
+            "md5": "91f16cb27c4d39b1e5f1c508fd294150"
+        },
+        {
+            "name": "ppgModCompiler\\System.Threading.Tasks.Extensions.dll",
+            "md5": "74b7943551d67425577c5f3b2cc96b06"
+        },
+        {
+            "name": "ppgModCompiler\\System.Threading.Tasks.Parallel.dll",
+            "md5": "3622eaf779a9842500d1b0857ddf897c"
+        },
+        {
+            "name": "ppgModCompiler\\System.Threading.Thread.dll",
+            "md5": "fe5b02d04529c09b3061001cfc844a92"
+        },
+        {
+            "name": "ppgModCompiler\\System.Threading.ThreadPool.dll",
+            "md5": "2577f0e3a1dda703dc6c262a316e0c84"
+        },
+        {
+            "name": "ppgModCompiler\\System.Threading.Timer.dll",
+            "md5": "a4de6baa35dbc91dcfcb4b0893116dd7"
+        },
+        {
+            "name": "ppgModCompiler\\System.Transactions.dll",
+            "md5": "7ccc64bcbbc7ac9384d2f75274c95b57"
+        },
+        {
+            "name": "ppgModCompiler\\System.Transactions.Local.dll",
+            "md5": "e58b1d33f93e551e3470b318852475f8"
+        },
+        {
+            "name": "ppgModCompiler\\System.ValueTuple.dll",
+            "md5": "a9d192bc01e9f33740165c67c8a5b74f"
+        },
+        {
+            "name": "ppgModCompiler\\System.Web.dll",
+            "md5": "c977bcecf1734d797bea679767768656"
+        },
+        {
+            "name": "ppgModCompiler\\System.Web.HttpUtility.dll",
+            "md5": "64cbf12b7609870d7ed3deae3b45abc2"
+        },
+        {
+            "name": "ppgModCompiler\\System.Windows.dll",
+            "md5": "96a1c59b3dd20d34223d3d81ad3cc8e2"
+        },
+        {
+            "name": "ppgModCompiler\\System.Xml.dll",
+            "md5": "98b4350306d774112dbcd73777f33558"
+        },
+        {
+            "name": "ppgModCompiler\\System.Xml.Linq.dll",
+            "md5": "2be033b732932c6ba6d7f61adcd0b456"
+        },
+        {
+            "name": "ppgModCompiler\\System.Xml.ReaderWriter.dll",
+            "md5": "38e6bfb443399299c815109e3ec04b81"
+        },
+        {
+            "name": "ppgModCompiler\\System.Xml.Serialization.dll",
+            "md5": "e4a109d6694327e58f6f387875e5c240"
+        },
+        {
+            "name": "ppgModCompiler\\System.Xml.XDocument.dll",
+            "md5": "350915a7801205355a09b2d1d8167030"
+        },
+        {
+            "name": "ppgModCompiler\\System.Xml.XmlDocument.dll",
+            "md5": "bd66d710f9385603af80e794fe1f9aa8"
+        },
+        {
+            "name": "ppgModCompiler\\System.Xml.XmlSerializer.dll",
+            "md5": "a451740b3c0f569030299471c45457ab"
+        },
+        {
+            "name": "ppgModCompiler\\System.Xml.XPath.dll",
+            "md5": "55b3b3492e30b7eed660e7a015af2c8e"
+        },
+        {
+            "name": "ppgModCompiler\\System.Xml.XPath.XDocument.dll",
+            "md5": "ad973671f17bfa72469630cf7fc9f062"
+        },
+        {
+            "name": "ppgModCompiler\\tr\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "b44fec42b602cc8ac173a2e4e8f0088b"
+        },
+        {
+            "name": "ppgModCompiler\\tr\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "7a43cd5a0044140b3214a84c0cd36f33"
+        },
+        {
+            "name": "ppgModCompiler\\ucrtbase.dll",
+            "md5": "5fef2fd676d7a1ac1bbf2cc9ba5c1a29"
+        },
+        {
+            "name": "ppgModCompiler\\WatsonTcp.dll",
+            "md5": "281b1388af612ae942e77051ad5ac7aa"
+        },
+        {
+            "name": "ppgModCompiler\\WindowsBase.dll",
+            "md5": "e5f94a2967e5c9e8c95547e0fc2d213b"
+        },
+        {
+            "name": "ppgModCompiler\\zh-Hans\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "5da75bcba05cfdbbba83fd7bebf7c470"
+        },
+        {
+            "name": "ppgModCompiler\\zh-Hans\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "ec9b752179cc43be7bae6c13f0816b9f"
+        },
+        {
+            "name": "ppgModCompiler\\zh-Hant\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+            "md5": "adea02049b6f7797a58664e93ce29acb"
+        },
+        {
+            "name": "ppgModCompiler\\zh-Hant\\Microsoft.CodeAnalysis.resources.dll",
+            "md5": "fd900c196e2f4aebcd6b7a29d2559519"
+        },
+        {
+            "name": "resetConfig.bat",
+            "md5": "5baa7d4559f3f73ba2ae7adf8372b313"
+        },
+        {
+            "name": "steam_appid.txt",
+            "md5": "b8b3d1a4ca55e17dc063ee574a91915e"
+        },
+        {
+            "name": "UnityCrashHandler64.exe",
+            "md5": "e912525591a303d280d064c6d9f46fd9"
+        },
+        {
+            "name": "UnityPlayer.dll",
+            "md5": "b365922646eb4dfa5272e77749805de6"
+        }
+    ]
+}
